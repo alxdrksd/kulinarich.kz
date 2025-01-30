@@ -1,0 +1,2017 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.kulinarich.kz" resolutions="1x" timestamp="1738259753854">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="3878663787" ref="кулинария:index:zakaznye"/>
+    <file name="_________.css" crc="3892215352" ref="кулинария"/>
+    <file name="index.css" crc="190901539" ref="index"/>
+    <file name="zakaznye.css" crc="4099951983" ref="zakaznye"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:zakaznye:кулинария"/>
+    <file name="museutils.js" crc="3803043152" ref="index:zakaznye:кулинария"/>
+    <file name="whatinput.js" crc="86476730" ref="index:zakaznye:кулинария"/>
+    <file name="museconfig.js" crc="380897831" ref="index:zakaznye:кулинария"/>
+    <file name="webpro.js" crc="242022427" ref="index:zakaznye:кулинария"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:zakaznye:кулинария"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:zakaznye:кулинария"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:zakaznye:кулинария"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:zakaznye:кулинария"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:zakaznye:кулинария"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:zakaznye:кулинария"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:zakaznye:кулинария"/>
+    <file name="require.js" crc="4157109226" ref="index:zakaznye:кулинария"/>
+  </folder>
+  <folder name="images">
+    <file name="главная-favicon.ico" crc="4153513290" ref="index"/>
+    <file name="tmb_96873_1458.jpg" crc="4202115390" seo="true" ref="index:zakaznye:кулинария">
+      <caption webpage="index" alt=""/>
+      <caption webpage="zakaznye" alt=""/>
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:zakaznye:кулинария"/>
+    <file name="loading.gif" crc="3815509949" ref="index:zakaznye"/>
+    <file name="шапка.png" crc="3771162036" seo="true" ref="index:zakaznye:кулинария">
+      <caption webpage="index" alt=""/>
+      <caption webpage="zakaznye" alt=""/>
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="logo.png" crc="4087265840" seo="true" ref="index:zakaznye:кулинария">
+      <caption webpage="index" alt=""/>
+      <caption webpage="zakaznye" alt=""/>
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="untitled.png" crc="330443235" seo="true" ref="index:zakaznye:кулинария">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zakaznye" alt=""/>
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="img-20190616-wa0029.jpg" crc="3810922133" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0038.jpg" crc="3799988900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0054-crop-u38090.jpg" crc="4123045560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0015.jpg" crc="501841091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0017.jpg" crc="494762129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мишки.jpg" crc="338482202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0019.jpg" crc="459207899" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0021-crop-u37258.jpg" crc="4097675350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0022-crop-u37284.jpg" crc="4230001063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0025.jpg" crc="4103271861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0028.jpg" crc="509153789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0030-crop-u37466.jpg" crc="82309804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0031.jpg" crc="4225609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0032.jpg" crc="4060394757" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0033-crop-u37544.jpg" crc="4206026444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0035.jpg" crc="490363381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0036.jpg" crc="4079823827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0037.jpg" crc="4237041335" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0023-crop-u37310.jpg" crc="458737044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0039.jpg" crc="427612094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0041.jpg" crc="38067995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0044.jpg" crc="3870396608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0045-crop-u37856.jpg" crc="501716373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0046.jpg" crc="4236095250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0047.jpg" crc="4036400699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="единороги.jpg" crc="3924300047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0048.jpg" crc="4079165288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0050.jpg" crc="4233426286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0053.jpg" crc="4035520219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0020.jpg" crc="4061392728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0026.jpg" crc="4277356856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0040.jpg" crc="369958162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="герлспати.jpg" crc="49555001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="корона.jpg" crc="3966826503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0049.jpg" crc="4169638837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0051.jpg" crc="3995540604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0029-crop-u36719.jpg" crc="406216332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa003860x49.jpg" crc="263045137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0054-crop-u38098.jpg" crc="166370783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0015-crop-u37110.jpg" crc="422246603" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0017-crop-u37162.jpg" crc="289798265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мишки-crop-u37188.jpg" crc="4288714417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0019-crop-u37214.jpg" crc="200968327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0021-crop-u37266.jpg" crc="458634034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0022-crop-u37292.jpg" crc="411036537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0025-crop-u37370.jpg" crc="148465321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0028-crop-u37448.jpg" crc="4164734210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0030-crop-u37474.jpg" crc="4116586863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0031-crop-u37500.jpg" crc="3784195448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa003260x47.jpg" crc="3902611876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0033-crop-u37552.jpg" crc="15924055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0035-crop-u37604.jpg" crc="3988098443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0036-crop-u37630.jpg" crc="4241807883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0037-crop-u37656.jpg" crc="222088003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0023-crop-u37318.jpg" crc="3879582190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0039-crop-u37708.jpg" crc="385261708" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0041-crop-u37760.jpg" crc="4147368499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0044-crop-u37838.jpg" crc="3929766069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0045-crop-u37864.jpg" crc="3927651984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0046-crop-u37890.jpg" crc="464289120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0047-crop-u37916.jpg" crc="4067690798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="единороги-crop-u38506.jpg" crc="3807982929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa004860x53.jpg" crc="4036604528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0050-crop-u37994.jpg" crc="3939079545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0053-crop-u38072.jpg" crc="198710298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0020-crop-u38282.jpg" crc="4100101119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0026-crop-u38310.jpg" crc="445703345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0040-crop-u38338.jpg" crc="3990230553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="герлспати-crop-u38366.jpg" crc="422588395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="корона-crop-u38394.jpg" crc="225798376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0049-crop-u38422.jpg" crc="3859741848" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img-20190616-wa0051-crop-u38478.jpg" crc="4165059111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вупи пай-crop-u12239.png" crc="4137547144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181750-crop-u12289.jpg" crc="519311019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181752-crop-u12319.jpg" crc="4258952500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="девочка-crop-u12339.jpg" crc="17388726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="гусиные лапки-crop-u12359.jpg" crc="173663998" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кармал-crop-u12385.jpg" crc="459772967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лаванда-crop-u17287.jpg" crc="4009361868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="неж-crop-u12405.jpg" crc="3837256344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="прага-crop-u12495.jpg" crc="68211459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="коротыш-crop-u12532.jpg" crc="3997609358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сникерс-crop-u12562.jpg" crc="342810488" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медовый месяц_170127-crop-u12612.jpg" crc="4005517030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дамский102x120.jpg" crc="4092126118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тоффи-crop-u17522.jpg" crc="4120770492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="черн-crop-u12693.jpg" crc="4080240411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тропик-crop-u12713.jpg" crc="250704885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181753-crop-u12857.jpg" crc="118735015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181754 (1)-crop-u12867.jpg" crc="27093656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сластена720-crop-u12887.jpg" crc="4064798924" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="клубничка-crop-u12937.jpg" crc="3941963733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фанцузская крошка-crop-u12957.jpg" crc="3990630904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="орео07-crop-u12977.jpg" crc="287583350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="софи9-crop-u12997.jpg" crc="340498293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чиз вишня-crop-u13017.jpg" crc="4003962078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181754-crop-u17167.jpg" crc="358771103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кулинартич 170557-crop-u30994.jpg" crc="3895495602" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскимо-crop-u13037.jpg" crc="81059309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медово-шоколадный-crop-u13098.jpg" crc="522798832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сказка-crop-u32719.jpg" crc="4063091972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="три шок квадрат.jpg" crc="251543789" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="йк.jpg" crc="536149169" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чернослив-u39173-fr.jpg" crc="198425612" ref="index"/>
+    <file name="whatsapp image 2019-06-18 at 181750 (1).jpg" crc="417036821" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кармен-u40151-fr.jpg" crc="85849481" ref="index"/>
+    <file name="опера102x102.jpg" crc="336748390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="опера-crop-u40355.jpg" crc="4235896432" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="венеция-u40218-fr.jpg" crc="139859861" ref="index"/>
+    <file name="венеция-crop-u40362.jpg" crc="125139630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мишка-u40224-fr.jpg" crc="480599176" ref="index"/>
+    <file name="мишка-crop-u40370.jpg" crc="4117060686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="опера-u40230-fr.jpg" crc="85886365" ref="index"/>
+    <file name="магия-crop-u40378.jpg" crc="481912508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вупи пай.png" crc="182559168" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u10720.png" crc="86008905" ref="index"/>
+    <file name="u10720-r.png" crc="3923255673" ref="index"/>
+    <file name="u10720-a.png" crc="3923255673" ref="index"/>
+    <file name="whatsapp image 2019-06-18 at 181750-crop-u39883.jpg" crc="4181547720" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181752-crop-u12329.jpg" crc="395376850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="девочка-crop-u12349.jpg" crc="101885501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="гусиные лапки-crop-u12369.jpg" crc="4276569559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кармал-crop-u12395.jpg" crc="281694976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лаванда-crop-u17297.jpg" crc="466926422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="неж-crop-u12415.jpg" crc="3993279146" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="прага-crop-u17532.jpg" crc="220333169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="коротыш-crop-u12552.jpg" crc="4125871541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сникерс-crop-u12582.jpg" crc="96648179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медовый месяц_170127-crop-u12632.jpg" crc="155160772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дамский-crop-u12683.jpg" crc="196895436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тоффи-crop-u17492.jpg" crc="515636280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="черн-crop-u12703.jpg" crc="4267856018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тропик-crop-u12723.jpg" crc="4123588726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181753-crop-u12819.jpg" crc="4018741170" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181754 (1)-crop-u12877.jpg" crc="436453945" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сластена720-crop-u12907.jpg" crc="2533589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="клубничка-crop-u12947.jpg" crc="4197341995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фанцузская крошка-crop-u12967.jpg" crc="3811996582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="орео07-crop-u12987.jpg" crc="4066208459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="софи9-crop-u13007.jpg" crc="76184719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чиз вишня.jpg" crc="4282755572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2019-06-18 at 181754-crop-u17177.jpg" crc="324610585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кулинартич 170557-crop-u31004.jpg" crc="3826786641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="эскимо-crop-u13047.jpg" crc="316991937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медово-шоколадный-crop-u13108.jpg" crc="25684147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сказка-crop-u32732.jpg" crc="109468660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="три шок.jpg" crc="476126881" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181121_140716.jpg" crc="99003267" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20181121_140555-crop-u39896.jpg" crc="3829296861" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чернослив-crop-u39202.jpg" crc="4274210107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кармен-crop-u40178.jpg" crc="4247286854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="опера-crop-u40544.jpg" crc="3904439079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="венеция-crop-u40534.jpg" crc="481383563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мишка-crop-u40524.jpg" crc="217827459" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="магия-crop-u40514.jpg" crc="4109470440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лента.png" crc="339307667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20190616_113656_460.jpg" crc="332838887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="красн-crop-u30486.jpg" crc="3785385912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дамский-crop-u32908.jpg" crc="255680374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="наполеон шок-crop-u30546.jpg" crc="4112514231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="наполеон-crop-u30566.jpg" crc="405479750" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сникерс-crop-u30586.jpg" crc="35788335" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медовый мес-crop-u30606.jpg" crc="4117228202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сластена-crop-u30626.jpg" crc="3933587866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3 шок-crop-u30666.jpg" crc="3998277686" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вост-crop-u30686.jpg" crc="3776091225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="донатс-crop-u30506.jpg" crc="43219242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кейк-crop-u30706.jpg" crc="4169995669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="картошка-crop-u30766.jpg" crc="3797431730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="суфле-crop-u30526.jpg" crc="3993560096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="требочки-crop-u30746.jpg" crc="3977835508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="завар-crop-u30786.jpg" crc="467032897" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="капкейк-crop-u32928.jpg" crc="3950595860" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вишня зим-crop-u30726.jpg" crc="485235616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-crop-u32968.jpg" crc="506392588" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="неженка-crop-u32988.jpg" crc="3908901352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="праа-crop-u33008.jpg" crc="458185652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="грильяж-crop-u38936.jpg" crc="156875579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медшок-crop-u38954.jpg" crc="182497016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чернослив-crop-u38995.png" crc="279610408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мол д-crop-u39005.jpg" crc="3766366215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="персик-crop-u39012.jpg" crc="501685378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ромовая баб-crop-u39019.jpg" crc="3926519434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="павлова-crop-u39143.jpg" crc="3894851845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="джулия-u47390.png" crc="4229170129" ref="index"/>
+    <file name="снежок-u47411.png" crc="80441541" ref="index"/>
+    <file name="чоко пай-u47432.png" crc="4242547457" ref="index"/>
+    <file name="картошка 2-crop-u47453.jpg" crc="213448105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot_20190616-112815_whatsapp.jpg" crc="26037780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="красн.jpg" crc="145679034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дамский.jpg" crc="427606616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="наполеон шок.jpg" crc="378567566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="наполеон.jpg" crc="4016842758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сникерс.jpg" crc="4165855225" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медовый мес.jpg" crc="341535679" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сластена.jpg" crc="108048362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3 шок-crop-u30676.jpg" crc="3892706227" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вост-crop-u30696.jpg" crc="4169257168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="донатс-crop-u30516.jpg" crc="231412085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кейк-crop-u30716.jpg" crc="21143743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="картошка-crop-u30776.jpg" crc="3811583018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="суфле-crop-u30536.jpg" crc="14860843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="требочки-crop-u30756.jpg" crc="4101716389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="завар-crop-u30796.jpg" crc="4150058496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="капкейк-crop-u32938.jpg" crc="3900136393" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вишня зим-crop-u30736.jpg" crc="315046533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-crop-u32978.jpg" crc="402860082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="неженка.jpg" crc="268358013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="праа-crop-u33018.jpg" crc="471751453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="грильяж-crop-u38852.jpg" crc="4066112447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="медшок-crop-u38984.jpg" crc="3765723005" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чернослив-crop-u39045.png" crc="280056637" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мол д-crop-u39062.jpg" crc="4123873080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="персик-crop-u39091.jpg" crc="4292295613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ромовая баб-crop-u39077.jpg" crc="192337397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="павлова-crop-u39158.jpg" crc="3826669385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="джулия.jpg" crc="355702353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="снежок.jpg" crc="395590767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чоко пай.jpg" crc="3995897447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="картошка 2.jpg" crc="453021613" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="давинчи-crop-u17207.jpg" crc="134103213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тоффи-crop-u16990.jpg" crc="3900048902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="малина чизкейк-crop-u17020.jpg" crc="3936021779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарлотка м.jpg" crc="4013606181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шокол-crop-u17040.jpg" crc="3865207530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="смородинка-crop-u17060.jpg" crc="80599058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вост слад-crop-u17092.jpg" crc="3861863808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лимонный м.jpg" crc="277569530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ч шок-crop-u31822.jpg" crc="41550873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="пирог чернослив м.jpg" crc="181407970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="творожный-crop-u31852.jpg" crc="4207349707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чизкейк мраморный-crop-u32047.jpg" crc="4011962772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="яблочный м.jpg" crc="319675287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="каравай-crop-u30869.jpg" crc="393895843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="асорти-crop-u39389.jpg" crc="184961765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="черника-crop-u39463.jpg" crc="4288576596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вишня-crop-u39470.jpg" crc="4083184782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чио сан-crop-u39518.jpg" crc="325093510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кофейный-crop-u39616.jpg" crc="533267282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="клюквенный-crop-u39660.jpg" crc="3784375932" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лимонный-crop-u39667.jpg" crc="77045487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ананас-crop-u39674.jpg" crc="3856929858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="джулия-crop-u39773.jpg" crc="160094290" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="брауни-crop-u39766.jpg" crc="4218401104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мак-crop-u40036.jpg" crc="3938197344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="давинчи-crop-u17217.jpg" crc="340036466" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="да винчи мини к.jpg" crc="312968357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="давинчи-crop-u17227.jpg" crc="4182643662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="да винчи мини б.jpg" crc="3867826240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тоффи-crop-u32790.jpg" crc="4148122571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="малина чизкейк-crop-u17030.jpg" crc="4043388619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарлотка б.jpg" crc="242584340" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шокол-crop-u31921.jpg" crc="4143727965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шоколадный мини к.jpg" crc="3982608375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шокол-crop-u31911.jpg" crc="221384097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шоколадный мини б.jpg" crc="180460580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="смородинка-crop-u17072.jpg" crc="41406794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="смородина мини к.jpg" crc="397233813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="смородинка-crop-u17082.jpg" crc="3943128055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="смородина мини б.jpg" crc="135984144" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вост слад-crop-u17102.jpg" crc="4238616180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лимонный б.jpg" crc="3857792592" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ч шок-crop-u31842.jpg" crc="319672314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="б шок марц-crop-u32147.jpg" crc="280531412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ч шок-crop-u31832.jpg" crc="374050598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="б шок марц-crop-u32137.jpg" crc="502189014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="пирог чернослив к.jpg" crc="4024146838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мини пирог чернослив к.jpg" crc="45371674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="пирог чернослив б.jpg" crc="4220619358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мини пирог чернослив б.jpg" crc="3831051892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="творожный-crop-u31872.jpg" crc="4268036221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="творожный мини к.jpg" crc="314369889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="творожный-crop-u31862.jpg" crc="3966551921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="творожный мини б.jpg" crc="3771793504" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чизкейк мраморный-crop-u32057.jpg" crc="23545267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="яблочный б.jpg" crc="293452234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="каравай-crop-u30879.jpg" crc="176966209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="асорти-crop-u39979.jpg" crc="140560090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="черника-crop-u39502.jpg" crc="3963814185" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вишня-crop-u39509.jpg" crc="247742506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="чио сан-crop-u39532.jpg" crc="358035419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="кофейный-crop-u39606.jpg" crc="222119964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="клюквенный-crop-u39699.jpg" crc="202995626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лимонный-crop-u39706.jpg" crc="128243467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ананас-crop-u39713.jpg" crc="4069955042" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="джулия-crop-u39786.jpg" crc="4089256506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="брауни-crop-u39793.jpg" crc="133883700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мак-crop-u40046.jpg" crc="335355299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="халвичное-crop-u41742.jpg" crc="6228206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-crop-u46864.jpg" crc="4224711270" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сэндвич-crop-u46871.jpg" crc="176483440" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сырное.jpg" crc="57565397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сердечки.jpg" crc="373220599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="семечки.jpg" crc="3969992236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ромашка.jpg" crc="406448978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="рогалик со сгущ.jpg" crc="209331647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="орешки.jpg" crc="191850794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мраморное.png" crc="185778213" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="курабье.jpg" crc="4033546022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="курабье шок-crop-u46948.jpg" crc="30538451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слоеное.jpg" crc="28323320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="профитроли.jpg" crc="4066119137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u46955.png" crc="191864506" ref="index"/>
+    <file name="u46955-a.png" crc="191864506" ref="index"/>
+    <file name="дамские пальчики.jpg" crc="4177535087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u46969.png" crc="4265760240" ref="index"/>
+    <file name="u46969-a.png" crc="4265760240" ref="index"/>
+    <file name="бантики.jpg" crc="4188927297" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u46983.png" crc="4099018376" ref="index"/>
+    <file name="u46983-a.png" crc="4099018376" ref="index"/>
+    <file name="американо-crop-u46990.jpg" crc="4226647853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="трюыфельное-crop-u47095.jpg" crc="39140041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="халвичное-crop-u41600.jpg" crc="4169779903" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-crop-u46836.jpg" crc="3925856452" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сэндвич-crop-u46843.jpg" crc="461087357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сырное-crop-u46850.jpg" crc="4216081536" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="сердечки-crop-u47105.jpg" crc="217357014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="с семечками-crop-u47112.jpg" crc="4041634868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ромашка-crop-u47119.jpg" crc="3831122448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="рогалик-crop-u47126.jpg" crc="4225394309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="орешки-crop-u47140.jpg" crc="296839969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мраморное-crop-u47147.jpg" crc="3904806001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="курабтье-crop-u47154.jpg" crc="3868636673" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="курабье шок-crop-u47161.jpg" crc="527202132" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слоеное-crop-u46857.jpg" crc="3955973145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="профитроли-crop-u47133.jpg" crc="4195307177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="красная шапочка-u47168.png" crc="4188542489" ref="index"/>
+    <file name="дамские пальчики-crop-u47175.jpg" crc="4282417117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безе-crop-u47182.jpg" crc="439704" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="бантики-crop-u47189.jpg" crc="4192979999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="арахзисовое-crop-u47196.jpg" crc="4009522718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="американо-crop-u47203.jpg" crc="352312145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="трюфельное-crop-u47210.jpg" crc="365267885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="творожная булочка-crop-u17545.jpg" crc="307266036" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="французская-crop-u17555.jpg" crc="65536743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="плетенка с маком-crop-u17565.jpg" crc="4055733950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="плюшка творожн-crop-u17575.jpg" crc="301017715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="рулет с маком б.jpg" crc="384017370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="круассан со сгущенкой-crop-u17595.jpg" crc="4191931447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слойка с вишней и ананасом-crop-u47568.jpg" crc="3869078850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фабрика 1.jpg" crc="4003494754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-2.jpg" crc="504686925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="478062296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-3.jpg" crc="264241347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="безымянный-4.jpg" crc="425027658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170815_175102.jpg" crc="43562709" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175252.jpg" crc="4087343250" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175431.jpg" crc="58611301" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175807.jpg" crc="87617932" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175921.jpg" crc="4127464944" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180253.jpg" crc="3795464393" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180444.jpg" crc="235083080" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180648.jpg" crc="4282297079" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180827.jpg" crc="4093152856" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181007.jpg" crc="3937059609" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181350.jpg" crc="3998201615" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181631.jpg" crc="288058457" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181750.jpg" crc="168575807" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182243.jpg" crc="533320512" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182358.jpg" crc="4258768925" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182614.jpg" crc="4024472095" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182846.jpg" crc="3923224081" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_183100.jpg" crc="529410463" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_183458.jpg" crc="365108858" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_184428.jpg" crc="224600241" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_185131.jpg" crc="3832805486" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_173857.jpg" crc="111648383" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174014.jpg" crc="4042106718" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174051.jpg" crc="238404421" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174214.jpg" crc="302125788" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174414.jpg" crc="233372643" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174446.jpg" crc="4229134759" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174616.jpg" crc="3972956149" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174751.jpg" crc="451427288" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_175124.jpg" crc="404934313" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_175323.jpg" crc="30001572" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170817_113551.jpg" crc="4110773359" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170817_113733.jpg" crc="4086942216" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170822_121325.jpg" crc="3916749600" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_161717.jpg" crc="290857306" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_162016.jpg" crc="208485307" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_162533.jpg" crc="354423903" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_162736.jpg" crc="4155508981" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_163151.jpg" crc="3864135658" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_163227.jpg" crc="249381491" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_163336.jpg" crc="3910927796" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164050.jpg" crc="191568243" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164120.jpg" crc="3893096334" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164158.jpg" crc="166543755" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164350.jpg" crc="3947426238" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164513.jpg" crc="3792963982" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_153153.jpg" crc="3901922097" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_153712.jpg" crc="4065192429" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_153938.jpg" crc="520875909" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_154425.jpg" crc="4167311365" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_155501.jpg" crc="149634685" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_155739.jpg" crc="477678067" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_160619.jpg" crc="4293953664" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_160803.jpg" crc="13659245" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161038.jpg" crc="4031245758" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161318.jpg" crc="4053126577" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161524.jpg" crc="21980795" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161736.jpg" crc="4001570110" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_162207.jpg" crc="4087207858" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_163217.jpg" crc="52272201" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_113720.jpg" crc="3799200940" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_114234.jpg" crc="475667540" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_114353.jpg" crc="4010595294" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_115117.jpg" crc="394301982" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_115605.jpg" crc="29849899" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_120133.jpg" crc="83648225" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_120723.jpg" crc="3818455122" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_121318.jpg" crc="4174759687" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_121848.jpg" crc="4106675403" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_134938.jpg" crc="501284308" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_134944.jpg" crc="229135126" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_135141.jpg" crc="231350296" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_135526.jpg" crc="96945938" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_121106.jpg" crc="3809176051" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_121659.jpg" crc="250800595" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_122109.jpg" crc="4176847454" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_150112.jpg" crc="256873858" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170904_085042.jpg" crc="4007926323" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170904_085357.jpg" crc="417444083" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170905_154716.jpg" crc="4074929537" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_074627.jpg" crc="4158865030" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_074930.jpg" crc="43867789" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075121.jpg" crc="4269486488" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075406.jpg" crc="4208288337" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075535.jpg" crc="440010081" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075715.jpg" crc="347929884" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075942.jpg" crc="14139827" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170908_172405.jpg" crc="6359316" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170911_083618.jpg" crc="3904823920" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_080139.jpg" crc="3848214084" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_080341.jpg" crc="4043559852" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_080532.jpg" crc="174554231" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_153213.jpg" crc="4283408099" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_153917.jpg" crc="224951939" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170924_153618.jpg" crc="353160669" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170928_172208.jpg" crc="3945020728" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170928_172517 - копия.jpg" crc="242566151" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_112953 - копия.jpg" crc="4209321269" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_113116.jpg" crc="457615664" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_113218.jpg" crc="3806698064" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_162923.jpg" crc="388292753" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_163323.jpg" crc="105782176" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_163506.jpg" crc="109960814" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171003_115555.jpg" crc="407060538" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171003_115835.jpg" crc="524245858" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171005_131620.jpg" crc="126824984" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171006_170347.jpg" crc="3990971885" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171006_170834.jpg" crc="493359507" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171006_171207.jpg" crc="3894708740" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171008_110122.jpg" crc="3781451324" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171008_110400.jpg" crc="4165040806" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171008_110736(0).jpg" crc="4154163263" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_172445.jpg" crc="324134431" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_173141.jpg" crc="107423456" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_173547.jpg" crc="3805058289" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_191034.jpg" crc="4293213577" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_191333.jpg" crc="3871048011" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171012_160620.jpg" crc="3790815526" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171012_161305.jpg" crc="3833336071" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171012_161721.jpg" crc="4268719652" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_150659.jpg" crc="212325658" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_161655.jpg" crc="369727009" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_162242.jpg" crc="318122388" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_162755(0).jpg" crc="112494721" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_173343.jpg" crc="3778476536" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175102-crop-u17794.jpg" crc="236245401" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175252-crop-u28463.jpg" crc="3863866691" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175431100x75.jpg" crc="3855211510" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175807-crop-u28503.jpg" crc="430106671" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_175921-crop-u28523.jpg" crc="19985986" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180253-crop-u28543.jpg" crc="352283837" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180444-crop-u28563.jpg" crc="240916968" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180648-crop-u28583.jpg" crc="3957271117" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_180827-crop-u28603.jpg" crc="115404906" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181007-crop-u28623.jpg" crc="1543020" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181350-crop-u28643.jpg" crc="3859796315" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181631100x75.jpg" crc="4207974892" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_181750100x75.jpg" crc="3966718330" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182243-crop-u28703.jpg" crc="175488438" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182358-crop-u28723.jpg" crc="3988913098" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182614-crop-u28743.jpg" crc="4252011333" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_182846-crop-u28763.jpg" crc="8820393" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_183100-crop-u28783.jpg" crc="304242476" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_183458-crop-u28803.jpg" crc="4263292733" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_184428-crop-u28823.jpg" crc="219663491" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170815_185131-crop-u28843.jpg" crc="150375941" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_173857-crop-u28863.jpg" crc="201808384" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174014-crop-u28883.jpg" crc="123135383" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174051-crop-u28903.jpg" crc="3773596520" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174214100x75.jpg" crc="359393493" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174414-crop-u28943.jpg" crc="119139828" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174446100x75.jpg" crc="4226139956" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174616-crop-u28983.jpg" crc="4118316116" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_174751100x75.jpg" crc="3904320305" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_175124100x75.jpg" crc="264417137" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170816_175323-crop-u29043.jpg" crc="3980750714" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170817_113551100x75.jpg" crc="3776771860" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170817_113733100x75.jpg" crc="160903259" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170822_121325100x75.jpg" crc="3993251002" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_161717100x75.jpg" crc="4291613280" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_162016100x75.jpg" crc="182117599" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_162533100x75.jpg" crc="504071645" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_162736100x75.jpg" crc="122568026" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_163151100x75.jpg" crc="49193876" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_163227100x75.jpg" crc="391286226" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_163336100x75.jpg" crc="3899194365" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164050100x75.jpg" crc="4269084212" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164120100x75.jpg" crc="36608842" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164158100x75.jpg" crc="4003230827" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164350100x75.jpg" crc="4027593501" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170823_164513100x75.jpg" crc="4097976730" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_153153100x75.jpg" crc="3880487246" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_153712100x75.jpg" crc="405517584" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_153938100x75.jpg" crc="3933351841" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_154425100x75.jpg" crc="3843997707" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_155501100x75.jpg" crc="4284063652" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_155739100x75.jpg" crc="4279081316" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_160619100x75.jpg" crc="335800365" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_160803100x75.jpg" crc="3891660900" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161038100x75.jpg" crc="4278851236" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161318100x75.jpg" crc="271663747" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161524100x75.jpg" crc="3959466756" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_161736100x75.jpg" crc="4223928174" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_162207100x75.jpg" crc="235550069" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170827_163217100x75.jpg" crc="3829510890" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_113720100x75.jpg" crc="4012828751" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_114234100x75.jpg" crc="3915847848" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_114353100x75.jpg" crc="4235528327" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_115117100x75.jpg" crc="3792823355" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_115605-crop-u29723.jpg" crc="4168839679" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_120133100x75.jpg" crc="377757887" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_120723100x75.jpg" crc="3953462635" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_121318100x75.jpg" crc="399830885" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_121848100x75.jpg" crc="3868161057" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_134938100x75.jpg" crc="4023728848" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_134944100x75.jpg" crc="3910141259" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_135141100x75.jpg" crc="95844241" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170831_135526100x75.jpg" crc="505456298" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_121106-crop-u29903.jpg" crc="3899541481" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_121659100x75.jpg" crc="4035453348" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_122109100x75.jpg" crc="349391038" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170903_150112100x75.jpg" crc="484306788" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170904_085042-crop-u29983.jpg" crc="4034141310" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170904_085357100x75.jpg" crc="3863495316" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170905_154716100x75.jpg" crc="4002968105" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_074627100x75.jpg" crc="4038631782" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_074930100x75.jpg" crc="4155661811" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075121100x75.jpg" crc="82562167" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075406100x75.jpg" crc="4291499642" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075535100x75.jpg" crc="504141200" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075715100x75.jpg" crc="501835492" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170906_075942100x75.jpg" crc="3916580827" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170908_172405-crop-u30183.jpg" crc="4007345237" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170911_083618100x75.jpg" crc="4132364928" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_080139100x75.jpg" crc="391159560" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_080341100x75.jpg" crc="481164221" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_080532100x75.jpg" crc="4275845382" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_153213100x75.jpg" crc="346098024" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170914_153917100x75.jpg" crc="3829981120" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170924_153618100x75.jpg" crc="4103718442" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170928_172208100x75.jpg" crc="3801523060" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170928_172517 - копия100x75.jpg" crc="4280529242" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_112953 - копия100x75.jpg" crc="333822193" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_113116100x75.jpg" crc="3951715219" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_113218100x75.jpg" crc="4139912368" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_162923-crop-u33406.jpg" crc="3955473675" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_163323-crop-u33426.jpg" crc="507903541" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20170929_163506-crop-u33446.jpg" crc="179559498" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171003_115555100x75.jpg" crc="270599467" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171003_115835100x75.jpg" crc="495388997" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171005_131620-crop-u33506.jpg" crc="19372944" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171006_170347100x75.jpg" crc="3924989255" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171006_170834100x75.jpg" crc="4198704920" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171006_171207100x75.jpg" crc="4183043621" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171008_110122100x75.jpg" crc="4186796833" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171008_110400100x75.jpg" crc="396241074" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171008_110736(0)100x75.jpg" crc="85176239" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_172445100x75.jpg" crc="3786969048" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_173141100x75.jpg" crc="4280311551" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_173547100x75.jpg" crc="4290829090" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_191034100x75.jpg" crc="160174718" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171011_191333100x75.jpg" crc="116633953" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171012_160620100x75.jpg" crc="357667768" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171012_161305100x75.jpg" crc="20826512" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171012_161721100x75.jpg" crc="3988361636" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_150659-crop-u33806.jpg" crc="3867901535" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_161655100x75.jpg" crc="98011285" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_162242-crop-u33846.jpg" crc="3930273537" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_162755(0)100x75.jpg" crc="247986208" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="20171013_173343-crop-u33886.jpg" crc="4149978787" seo="true" ref="zakaznye">
+      <caption webpage="zakaznye" alt=""/>
+    </file>
+    <file name="рыба м.jpg" crc="533457909" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирог мясо м.jpg" crc="3942243259" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирог с грибами м.jpg" crc="475280016" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="капуста м.jpg" crc="324825988" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-грибы м.jpg" crc="4215771081" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки-crop-u48021.jpg" crc="213595453" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="блины с мясом м.jpg" crc="4215621877" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса с сыром м.jpg" crc="3893404084" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курник м.jpg" crc="3791710022" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="гамбургер-crop-u48039.jpg" crc="489022820" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="киш-crop-u48036.jpg" crc="4273064262" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мини пицца-crop-u48033.jpg" crc="4061019091" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="хачапури с брынзой-crop-u48024.jpg" crc="131769240" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="хот дог 350-crop-u48042.jpg" crc="201095893" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="сырники-crop-u48045.jpg" crc="4019901658" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="рыба к.jpg" crc="484694525" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="рыба-картошка к.jpg" crc="114517327" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="рыба б.jpg" crc="4040595575" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="рыба-картошка б.jpg" crc="4272265547" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирог мясо к.jpg" crc="536245503" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо-картошка к.jpg" crc="10756588" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо-рис к.jpg" crc="50400789" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="грибы к.jpg" crc="343221968" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирог мясо б.jpg" crc="3790228042" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо-картошка б.jpg" crc="3875653172" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо-рис б.jpg" crc="473595177" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="грибы б.jpg" crc="4138258697" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирог с грибами б.jpg" crc="438248822" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="капуста б.jpg" crc="3825178340" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-грибы к.jpg" crc="4033662254" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-картошка к.jpg" crc="474260691" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-грибы б.jpg" crc="4217465725" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-картошка б.jpg" crc="3793175862" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки с картошкой м.jpg" crc="3799688582" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки лук-яйцо м.jpg" crc="238766807" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки картошка-грибы м.jpg" crc="508490439" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки капуств-яйцо м1.jpg" crc="102924652" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки с яблоком м.jpg" crc="462624154" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки с картошкой б.jpg" crc="3827666938" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки-crop-u48284.jpg" crc="3959043778" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки картошка-грибы б.jpg" crc="500555803" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки капуств-яйцо б1.jpg" crc="3896558414" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="пирожки с яблоком б.jpg" crc="4226908005" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="блины оболочка к.jpg" crc="4065159901" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="блины с мясом к.jpg" crc="516688342" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="блины оболочка б.jpg" crc="4088673642" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="блины с мясом б.jpg" crc="4244300169" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса грибы к.jpg" crc="4251038627" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-картошка к2.jpg" crc="70996847" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо к.jpg" crc="98722887" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо рис к.jpg" crc="143936556" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="рыба к2.jpg" crc="105284794" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса с сыром к.jpg" crc="226995320" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса курица к.jpg" crc="394156924" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса грибы б.jpg" crc="458226646" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курица-картошка б2.jpg" crc="4185855573" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо б.jpg" crc="159891003" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мясо рис б.jpg" crc="315402917" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="рыба б2.jpg" crc="198573465" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса с сыром б.jpg" crc="7161119" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="самса курица б.jpg" crc="151277849" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="курник б.jpg" crc="26162579" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="гамбургер-crop-u48120.jpg" crc="489084062" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="киш-crop-u48159.jpg" crc="465734558" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="мини пицца-crop-u48055.jpg" crc="4106919278" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="хачапури с брынзой-crop-u48172.jpg" crc="4080070443" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="хот дог 350-crop-u48116.jpg" crc="269771752" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+    <file name="сырники-crop-u48164.jpg" crc="111176368" seo="true" ref="кулинария">
+      <caption webpage="кулинария" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3964625487" seo="true" mt="1649730867950" redirect="true"/>
+  <file name="zakaznye.html" crc="246507899" seo="true" mt="1649729310427" redirect="true"/>
+  <file name="кулинария.html" crc="163155577" seo="true" mt="1649731204127" redirect="true"/>
+</manifest>
